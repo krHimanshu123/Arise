@@ -11,6 +11,7 @@ Auth:      Middleware protecting routes ✅
 
 ---
 
+
 ## ❌ The Error You Had
 
 ```
