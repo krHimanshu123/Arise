@@ -13,6 +13,7 @@ This error occurs because the app needs proper environment configuration. Here's
 4. Open MongoDB Compass and connect to `mongodb://localhost:27017`
 5. Your app is already configured for this connection!
 
+
 ### 2. Authentication Setup (5 minutes)
 1. Go to [Clerk](https://clerk.com)
 2. Create a free account
