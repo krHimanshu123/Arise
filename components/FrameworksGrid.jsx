@@ -17,6 +17,7 @@ export default function FrameworksGrid() {
             <span className="mt-3 text-base md:text-lg font-medium text-gray-800 dark:text-gray-200 text-center">
               {name}
             </span>
+            
           </div>
         ))}
       </div>
