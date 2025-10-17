@@ -14,6 +14,7 @@ export default async function CoverLetterPage() {
         <Link href="/sign-in">
           <Button className="text-lg px-6 py-2">Sign In</Button>
         </Link>
+        
       </div>
     );
   }
@@ -27,7 +28,7 @@ export default async function CoverLetterPage() {
             <Plus className="h-4 w-4 mr-2" />
             Create New
           </Button>
-        </Link>
+        </Link>        
       </div>
 
       <CoverLetterList coverLetters={coverLetters} />
