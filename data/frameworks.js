@@ -27,4 +27,5 @@ export const frameworks = [
 
   { name: 'Bootstrap', icon: FaBootstrap },
   { name: 'Tailwind CSS', icon: SiTailwindcss },
+  
 ];
