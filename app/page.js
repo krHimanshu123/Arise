@@ -66,6 +66,7 @@ export default function LandingPage() {
         </div>
       )}
 
+  
       {/* Hero Section */}
       <HeroSection />
       {/* Global ATS Modal */}
