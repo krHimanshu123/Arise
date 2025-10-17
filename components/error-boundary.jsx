@@ -36,6 +36,7 @@ export default function ErrorBoundary({ children, fallback }) {
             Configure App
           </a>
         </div>
+        
       </div>
     );
   }
