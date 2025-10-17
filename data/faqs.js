@@ -19,6 +19,7 @@ export const faqs = [
     answer:
       "Arise’s GitHub Readme generator uses AI to create a standout profile for you. Highlight your skills, projects, and achievements with a professional, customizable readme that helps you get noticed by recruiters and collaborators.",
   },
+  
   {
     question: "What is the ATS Resume Score Checker?",
     answer:
