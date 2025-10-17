@@ -45,7 +45,6 @@ const HeroSection = () => {
                
               </SignedIn>
               
-             
               <SignedOut>
                 <SignInButton>
                   <button className="bg-blue-600 text-white rounded-lg font-medium text-sm h-10 px-4 hover:bg-blue-700 transition-colors">
@@ -68,6 +67,7 @@ const HeroSection = () => {
                 />
               </SignedIn>
             </div>
+            
           </div>
         </div>
       </header>
