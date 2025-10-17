@@ -31,9 +31,11 @@ export default function RootLayout({ children }) {
             {/* <Header /> removed: Header is now empty and should not be rendered */}
             <main className="min-h-screen">{children}</main>
             <FloatingChatButton />
+              
             <Toaster richColors />
 
-          
+
+              
           </ThemeProvider>
         </body>
       </html>
