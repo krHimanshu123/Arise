@@ -30,6 +30,7 @@ export default function DetailedAnalysis({ sectionAnalysis }) {
                       {data.suggestions.map((s, idx) => (
                         <li key={idx} className="text-[#e6f1ff]">{s}</li>
                       ))}
+                      
                     </ul>
                   ) : (
                     <span className="text-[#e6f1ff]">No suggestions.</span>
