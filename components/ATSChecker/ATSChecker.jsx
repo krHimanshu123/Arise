@@ -46,6 +46,7 @@ export default function ATSChecker() {
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
     }, 100);
+    
   };
 
   return (
