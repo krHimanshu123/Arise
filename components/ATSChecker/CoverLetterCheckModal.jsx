@@ -69,6 +69,7 @@ export default function CoverLetterCheckModal({ open, onClose, onUpload }) {
                 <span className="text-[#e6f1ff]">{file.name}</span>
                 <CheckCircle2 className="w-5 h-5 text-green-400" />
               </div>
+            
             )}
             {error && (
               <div className="mt-4 flex items-center gap-2 text-red-400">
