@@ -31,6 +31,7 @@ export default function ParsedView({ parsedText, originalText }) {
               {parsedText}
             </pre>
           </div>
+          
           <div
             className={`absolute w-full h-full ${!showParsed ? "block" : "hidden"}`}
             aria-label="Original resume text"
