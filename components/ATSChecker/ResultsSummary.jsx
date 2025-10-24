@@ -30,6 +30,7 @@ export default function ResultsSummary({ score, scores, summary, quickFixes, onE
                 <span className="text-lg font-bold">{v}</span>
               </div>
             ))}
+            
           </div>
           <div className="mb-4 text-center text-[#e6f1ff]">
             {summary}
