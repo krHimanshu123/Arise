@@ -26,6 +26,7 @@ export default function AnalysisProgress({ progress, logs }) {
               </div>
             </motion.div>
           </div>
+          
           <div className="mt-4">
             <span className="font-semibold text-[#52e0c4]">Analysis Steps</span>
             <ul className="mt-2 space-y-1">
