@@ -8,6 +8,7 @@ export default function BenchmarkChart({ score, roleMedian, topCandidates }) {
       ringRef.current.style.strokeDashoffset = targetOffset;
       ringRef.current.classList.add('animate-progress-ring');
     }
+    
   }, [score]);
 
   return (
