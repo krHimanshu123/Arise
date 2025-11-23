@@ -7,5 +7,6 @@ export const databasePlatforms = [
   { name: 'SQLite', icon: SiSqlite },
   { name: 'Firebase Realtime Database', icon: SiFirebase },
   { name: 'DynamoDB', icon: SiAmazondynamodb },
+
   
 ];
