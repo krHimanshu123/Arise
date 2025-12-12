@@ -68,6 +68,7 @@ export default function TailorMatcher({ onUpload, jobs, results }) {
             </ul>
           </div>
         )}
+        
         {results && results.length > 0 && (
           <div className="mt-6">
             <div className="font-semibold mb-2 text-[#52e0c4]">Match Results</div>
