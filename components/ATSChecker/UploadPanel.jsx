@@ -69,6 +69,7 @@ export default function UploadPanel({ onUpload, recentFiles }) {
             onChange={handleChange}
             aria-label="Resume file input"
           />
+          
           {file && (
             <div className="mt-4 flex items-center gap-2">
               <FileText className="w-5 h-5 text-[#52e0c4]" />
