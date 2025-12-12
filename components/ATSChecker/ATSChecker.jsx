@@ -16,6 +16,7 @@ export default function ATSChecker() {
     setError("");
     // Simulate API call
     setTimeout(() => {
+      
       const fakeAnalysis = {
         score: Math.floor(Math.random() * 100),
         details: {},
