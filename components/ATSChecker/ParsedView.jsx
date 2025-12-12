@@ -39,6 +39,7 @@ export default function ParsedView({ parsedText, originalText }) {
             <pre className="bg-[#0a192f] text-[#e6f1ff] p-4 rounded overflow-x-auto max-h-64 whitespace-pre-wrap">
               {originalText}
             </pre>
+            
           </div>
         </motion.div>
         <Button
