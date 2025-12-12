@@ -33,6 +33,7 @@ export default function CoverLetterCheckModal({ open, onClose, onUpload }) {
   };
 
   return (
+    
     <Dialog open={open} onOpenChange={onClose}>
       <motion.div
         initial={{ opacity: 0, filter: "blur(8px)" }}
