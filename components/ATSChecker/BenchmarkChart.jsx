@@ -48,6 +48,7 @@ export default function BenchmarkChart({ score, roleMedian, topCandidates }) {
               fontWeight="bold"
             >
               {score}%
+              
             </text>
           </svg>
           <div className="mt-4 text-[#52e0c4] font-semibold">Role Median: {roleMedian}%</div>
