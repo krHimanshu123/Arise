@@ -24,6 +24,7 @@ export default function KeywordMatcher({ matched, missing }) {
               <Badge className="bg-[#64ffda] text-[#0a192f] font-bold">{kw}</Badge>
             </motion.li>
           ))}
+          
         </motion.ul>
       </div>
       <div>
