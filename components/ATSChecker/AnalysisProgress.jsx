@@ -13,6 +13,7 @@ export default function AnalysisProgress({ progress, logs }) {
           transition={{ duration: 0.5 }}
         >
           <div className="mb-4">
+            
             <span className="font-semibold text-[#64ffda]">Analyzing Resume...</span>
             <motion.div
               initial={{ scale: 0.8 }}
